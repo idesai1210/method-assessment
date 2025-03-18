@@ -1,0 +1,6 @@
+@MethodAssessment_HostAddress = http://localhost:8080
+
+GET {{MethodAssessment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
