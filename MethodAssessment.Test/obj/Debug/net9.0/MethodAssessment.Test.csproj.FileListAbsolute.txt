@@ -112,3 +112,4 @@
 /Users/Ishan/RiderProjects/MethodAssessment/MethodAssessment.Test/obj/Debug/net9.0/ref/MethodAssessment.Test.dll
 /Users/Ishan/RiderProjects/MethodAssessment/MethodAssessment.Test/bin/Debug/net9.0/Castle.Core.dll
 /Users/Ishan/RiderProjects/MethodAssessment/MethodAssessment.Test/bin/Debug/net9.0/Moq.dll
+/Users/Ishan/RiderProjects/MethodAssessment/MethodAssessment.Test/obj/Debug/net9.0/MethodAssessment.Test.sourcelink.json

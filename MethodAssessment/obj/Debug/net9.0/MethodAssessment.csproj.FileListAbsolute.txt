@@ -34,3 +34,4 @@
 /Users/Ishan/RiderProjects/MethodAssessment/MethodAssessment/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/Ishan/RiderProjects/MethodAssessment/MethodAssessment/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/Ishan/RiderProjects/MethodAssessment/MethodAssessment/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/Ishan/RiderProjects/MethodAssessment/MethodAssessment/obj/Debug/net9.0/MethodAssessment.sourcelink.json
